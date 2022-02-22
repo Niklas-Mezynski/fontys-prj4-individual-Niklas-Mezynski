@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/mainActivity"
+            android:enabled="true"
+            android:icon="@drawable/ic_table"
+            android:title="@string/tableName"/>
+    <item
+            android:id="@+id/menu_stats"
+            android:enabled="true"
+            android:icon="@drawable/ic_stats"
+            android:title="@string/menuStats"/>
+    <item
+            android:id="@+id/resultActivity"
+            android:enabled="true"
+            android:icon="@drawable/ic_results"
+            android:title="@string/menuEnterResults"/>
+</menu>

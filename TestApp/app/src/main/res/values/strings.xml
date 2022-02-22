@@ -1,5 +1,14 @@
 <resources>
-    <string name="app_name">TestApp</string>
+    <string name="app_name">BeerPongLeague</string>
     <string name="tableName">Tabelle</string>
     <string name="snens">Snens</string>
+    <string name="gamesPlayed">Games played</string>
+    <string name="diff">Diff</string>
+    <string name="points">Points</string>
+    <string name="teamName">Team name</string>
+    <string name="menuTable">Tabelle</string>
+    <string name="menuStats">Stats</string>
+    <string name="menuEnterResults">Ergebnisse</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

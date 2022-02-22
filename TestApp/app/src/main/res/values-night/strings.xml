@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">BeerPongLeague</string>
     <string name="tableName">Tabelle</string>
     <string name="snens">Snens</string>
+    <string name="gamesPlayed">Games played</string>
+    <string name="diff">Diff</string>
+    <string name="points">Points</string>
+    <string name="teamName">Team name</string>
 </resources>
